@@ -1,0 +1,10 @@
+D:\III GODINA\CCEES\Priprema\Client\bin\Debug\Client.exe.config
+D:\III GODINA\CCEES\Priprema\Client\bin\Debug\Client.exe
+D:\III GODINA\CCEES\Priprema\Client\bin\Debug\Client.pdb
+D:\III GODINA\CCEES\Priprema\Client\bin\Debug\Contracts.dll
+D:\III GODINA\CCEES\Priprema\Client\bin\Debug\Contracts.pdb
+D:\III GODINA\CCEES\Priprema\Client\obj\Debug\Client.csprojAssemblyReference.cache
+D:\III GODINA\CCEES\Priprema\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+D:\III GODINA\CCEES\Priprema\Client\obj\Debug\Client.csproj.CopyComplete
+D:\III GODINA\CCEES\Priprema\Client\obj\Debug\Client.exe
+D:\III GODINA\CCEES\Priprema\Client\obj\Debug\Client.pdb
